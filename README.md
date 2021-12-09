@@ -1,6 +1,5 @@
-As of 2021: Student at CSUSM
-Interested in Blockchain, modern c++, mathematics
-All social handles: @soupseeker
+##Hi! I'm Jake
+###Currently I am a student at CSUSM in the CS program.
 
 <!---
 SoupSeeker/SoupSeeker is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
