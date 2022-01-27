@@ -4,7 +4,7 @@
 
 - I’m currently in the CSUSM CS program! I hope to one day be in the cybersecurity field
 - I’m currently learning **Kotlin**
-- How to reach me: ... **tremblay.jake@outlook.com**
+- How to reach me -> **tremblay.jake@outlook.com**
 
 
 
