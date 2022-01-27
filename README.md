@@ -2,8 +2,9 @@
 
 ## About Me
 
-- I’m currently in the CSUSM CS program! I hope to one day be in the cybersecurity field
+- I’m currently in the CSUSM CS program! I hope to one day be in the cybersecurity field <img src="https://img.icons8.com/ios/50/000000/phonelink-lock.png"/>
 - I’m currently learning **Kotlin**
+- This year I am enrolled in **452 Cybersecurity, 421 Theory of Computing, 436 Networking, and 352 Sport Game and Culture**
 - How to reach me -> **tremblay.jake@outlook.com**
 
 
