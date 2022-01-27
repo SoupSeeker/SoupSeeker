@@ -1,8 +1,8 @@
-<h1 align="center">Hello there, welcome to my page! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"></h1>
+<h1 align="center">Hello there, welcome to my github! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"></h1>
 
 ## About Me
 
-- I’m currently in the CSUSM CS program! I hope to one day be in the cybersecurity field 
+- I’m currently in the CSUSM CS program! I hope to one day be in the cybersecurity field as a *penetration tester*
 - I’m currently learning **Kotlin**
 - This year I am enrolled in **452 Cybersecurity, 421 Theory of Computing, 436 Networking, and 352 Sport Game and Culture**
 - How to reach me -> **tremblay.jake@outlook.com**
