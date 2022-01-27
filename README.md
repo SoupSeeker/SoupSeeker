@@ -1,4 +1,5 @@
 <h1 align="center">Hello there, welcome to my page! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"></h1>
+
 ## About Me
 
 - I’m currently in the CSUSM CS program! I hope to one day be in the cybersecurity field
