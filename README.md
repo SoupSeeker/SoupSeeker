@@ -3,10 +3,7 @@
 
 - I’m currently in the CSUSM CS program! I hope to one day be in the cybersecurity field
 - I’m currently learning **Kotlin**
-- I'm currently interested in generative art, cybersecurity, and fintech <iframe src="https://giphy.com/embed/14kdiJUblbWBXy" width="480" height="212" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/14kdiJUblbWBXy">via GIPHY</a></p>
-- How to reach me: ... **jsm.28415@gmail.com**
-- My YouTube channel: ... **CODE_CROSING** 
-- Fun fact: ... I love to solve problems. **I can do leetcode problems all day**
+- How to reach me: ... **tremblay.jake@outlook.com**
 
 
 
