@@ -1,5 +1,4 @@
-##Hi! I'm Jake
-###Currently I am a student at CSUSM in the CS program.
+<h1 align="center">Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> there!</h1>
 
 ## Languages and Tools:
 <p align="left"> 
