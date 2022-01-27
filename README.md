@@ -2,7 +2,7 @@
 
 ## About Me
 
-- I’m currently in the CSUSM CS program! I hope to one day be in the cybersecurity field as a *penetration tester*
+- I’m currently in the CSUSM CS program! I hope to one day be in the cybersecurity field as a penetration tester
 - I’m currently learning **Kotlin**
 - This year I am enrolled in **452 Cybersecurity, 421 Theory of Computing, 436 Networking, and 352 Sport Game and Culture**
 - How to reach me -> **tremblay.jake@outlook.com**
@@ -27,3 +27,4 @@
 SoupSeeker/SoupSeeker is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
