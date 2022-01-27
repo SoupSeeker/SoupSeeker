@@ -22,10 +22,12 @@
     <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
     
-
-## Let's Connect:
-    <a href = "https://www.linkedin.com/in/jake-tremblay-a45740209/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>      
+</p>
         
+## Let's Connect: 
+<p align="left>
+    <a href = "https://www.linkedin.com/in/jake-tremblay-a45740209/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>      
+    <a href = "tremb008@cougars.csusm.edu"><img src="https://img.icons8.com/color/48/000000/gmail-new.png"/></a> 
 </p>
 <!---
 SoupSeeker/SoupSeeker is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
