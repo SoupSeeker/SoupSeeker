@@ -7,7 +7,7 @@
 - This year I am enrolled in **452 Cybersecurity, 421 Theory of Computing, 436 Networking, and 352 Sport Game and Culture**
 - How to reach me -> **tremblay.jake@outlook.com**
 - My LeetCode profile -> **https://leetcode.com/SoupSeeker/**
-
+- The only thing that should be fullstack is my pancakes
 
 
 ## Languages and Tools:
