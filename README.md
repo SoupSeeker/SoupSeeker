@@ -4,6 +4,7 @@
 
 - I’m currently in the CSUSM CS program! I hope to one day be in the cybersecurity field as a penetration tester
 - I’m currently learning **Kotlin**
+- I'm a memeber of the CSUSM Cybersecurity Club, competing in NCL 2022
 - This year I am enrolled in **452 Cybersecurity, 421 Theory of Computing, 436 Networking, and 318 Sport Game and Culture**
 - How to reach me -> **tremblay.jake@outlook.com**
 - My LeetCode profile -> **https://leetcode.com/SoupSeeker/**
