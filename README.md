@@ -3,9 +3,8 @@
 ## About Me
 
 - I’m currently in the CSUSM CS program! I hope to one day be in the cybersecurity field as a penetration tester
-- I’m currently learning **Kotlin**
-- I'm a memeber of the CSUSM Cybersecurity Club, competing in NCL 2022
-- This year I am enrolled in **452 Cybersecurity, 421 Theory of Computing, 436 Networking, and 318 Sport Game and Culture**
+- I’m currently learning **Kotlin and Rust**
+- Secretary Officer of CSUSM Cybersecurity Club
 - How to reach me -> **tremb008@cougars.csusm.edu**
 - My LeetCode profile -> **https://leetcode.com/SoupSeeker/**
 
