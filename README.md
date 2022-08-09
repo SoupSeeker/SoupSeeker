@@ -27,7 +27,7 @@
         
 ## Let's Connect: 
 <p align="left>
-    <a href = "https://www.linkedin.com/in/jake-tremblay-a45740209/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>      
+    <a href = "https://www.linkedin.com/in/jake-tremblay/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>      
     <a href = "tremb008@cougars.csusm.edu"><img src="https://img.icons8.com/color/48/000000/gmail-new.png"/></a> 
 </p>
 <!---
