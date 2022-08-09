@@ -7,6 +7,7 @@
 - Secretary Officer of CSUSM Cybersecurity Club
 - How to reach me -> **tremb008@cougars.csusm.edu**
 - My LeetCode profile -> **https://leetcode.com/SoupSeeker/**
+- My Linkedin -> **https://www.linkedin.com/in/jake-tremblay/**
 
 
 ## Languages and Tools:
@@ -26,9 +27,8 @@
 </p>
         
 ## Let's Connect: 
-<p align="left>
-    <a href = "https://www.linkedin.com/in/jake-tremblay/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>      
-    <a href = "tremb008@cougars.csusm.edu"><img src="https://img.icons8.com/color/48/000000/gmail-new.png"/></a> 
+<p align="left>      
+    <a href = "tremb008@csusm.edu"><img src="https://img.icons8.com/color/48/000000/gmail-new.png"/></a> 
 </p>
 <!---
 SoupSeeker/SoupSeeker is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
