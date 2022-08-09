@@ -2,7 +2,7 @@
 
 ## About Me
 
-- I’m currently in the CSUSM CS program! I hope to one day be in the cybersecurity field as a penetration tester
+- CSUSM CSTEM Full time student, interested in CTFs, bug bounty, red team, and all things pentesting!
 - This summer i'm doing several CTF challenges, if you would like to join just hmu!
 - Secretary Officer of CSUSM Cybersecurity Club
 - How to reach me -> **tremb008@cougars.csusm.edu**
