@@ -5,7 +5,7 @@
 - CSUSM CSTEM Full time student, interested in CTFs, bug bounty, red team, and all things pentesting!
 - This summer i'm doing several CTF challenges, if you would like to join just hmu!
 - Secretary Officer of CSUSM Cybersecurity Club
-- How to reach me -> **tremb008@cougars.csusm.edu**
+- How to reach me -> **tremb008@csusm.edu**
 - My LeetCode profile -> **https://leetcode.com/SoupSeeker/**
 - My Linkedin -> **https://www.linkedin.com/in/jake-tremblay/**
 
