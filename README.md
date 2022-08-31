@@ -2,12 +2,13 @@
 
 ## About Me
 
-- CSUSM CSTEM Full time student, interested in CTFs, bug bounty, red team, and all things pentesting!
-- This summer i'm doing several CTF challenges, if you would like to join just hmu!
+- CSUSM CSTEM Full time student, interested in networking, cybersecurity, and machine learning!
+- Current courses: Software Engineering, Database Systems, and Ethics in Engineering
 - Secretary Officer of CSUSM Cybersecurity Club
 - How to reach me -> **tremb008@csusm.edu**
-- My LeetCode profile -> **https://leetcode.com/SoupSeeker/**
 - My Linkedin -> **https://www.linkedin.com/in/jake-tremblay/**
+- My LeetCode profile -> **https://leetcode.com/SoupSeeker/**
+
 
 
 ## Languages and Tools:
