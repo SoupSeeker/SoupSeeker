@@ -3,6 +3,7 @@
 ## About Me
 
 - CSUSM CSTEM Full time student, interested in networking, cybersecurity, and machine learning!
+- Currently seeking positions as entry software engineer / internships in related fields
 - Current courses: Software Engineering, Database Systems, and Ethics in Engineering
 - Secretary Officer of CSUSM Cybersecurity Club
 - How to reach me -> **tremb008@csusm.edu**
