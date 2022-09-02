@@ -26,11 +26,8 @@
     <a href="https://www.docker.com/" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/docker.png"/> </a>
     <a href="https://remix.ethereum.org/" target="_blank"> <img src="https://img.icons8.com/ios/50/000000/ethereum.png"/> </a>
     
-</p>
-        
-## Let's Connect: 
-<p align="left>      
-    <a href = "mailto:tremb008@csusm.edu"><img src="https://img.icons8.com/color/48/000000/gmail-new.png"/></a> 
+</p>        
+<p align="left>       
 </p>
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=SoupSeeker">
