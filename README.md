@@ -30,12 +30,8 @@
         
 ## Let's Connect: 
 <p align="left>      
-    <a href = "tremb008@csusm.edu"><img src="https://img.icons8.com/color/48/000000/gmail-new.png"/></a> 
+    <a href = "mailto:tremb008@csusm.edu"><img src="https://img.icons8.com/color/48/000000/gmail-new.png"/></a> 
 </p>
-<!---
-SoupSeeker/SoupSeeker is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=SoupSeeker">
 </a>
