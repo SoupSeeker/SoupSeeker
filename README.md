@@ -4,11 +4,11 @@
 
 - CSUSM CSTEM Full time student, interested in networking, cybersecurity, and machine learning!
 - Currently seeking positions as entry software engineer, cybersecurity analyst, and other related positions
-- Current courses: Software Engineering, Database Systems, and Ethics in Engineering
+- Current courses: Web & Cloud Programming
 - President of CSUSM Cybersecurity Club
 - How to reach me -> **tremb008@csusm.edu**
 - My Linkedin -> **https://www.linkedin.com/in/jake-tremblay/**
-- My LeetCode profile -> **https://leetcode.com/SoupSeeker/**
+- My tryhackme -> **https://tryhackme.com/p/SoupSeeker**
 
 
 ## Languages and Tools:
