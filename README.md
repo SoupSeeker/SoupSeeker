@@ -2,10 +2,9 @@
 
 ## About Me
 
-- CSUSM CSTEM Full time student, interested in networking, cybersecurity, and machine learning!
-- Currently seeking positions as entry software engineer, cybersecurity analyst, and other related positions
-- Current courses: Web & Cloud Programming
-- President of CSUSM Cybersecurity Club
+- B.S. in Computer Science from California State University San Marcos
+- Former President of CSUSM Cybersecurity Club
+- Creator of CSUSM Cybersecurity Club's Capture the Flag
 - How to reach me -> **tremb008@csusm.edu**
 - My Linkedin -> **https://www.linkedin.com/in/jake-tremblay/**
 - My tryhackme -> **https://tryhackme.com/p/SoupSeeker**
